@@ -21,7 +21,7 @@ I'm a **Software Engineering student @ UVic** who loves solving real-world probl
 A smart and sleek web app that delivers curated learning content using Wikipedia + OpenAI, with Firebase login, flashcards, and topic history.
 > `React` · `Vite` · `Firebase` · `Tailwind CSS` · `OpenAI API`
 
-[🔗 Live Demo](https://study-assistant.netlify.app) • [📦 Source Code](https://github.com/saad-khaan/study-assistant)
+[🔗 Live Demo](https://studytutor.netlify.app) • [📦 Source Code](https://github.com/saad-khaan/student-study-assistant)
 
 ---
 
