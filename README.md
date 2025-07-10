@@ -57,14 +57,6 @@ A responsive weather app fetching live data from OpenWeatherMap API, with foreca
 
 ---
 
-## 📊 GitHub Stats
-
-![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saad-khaan&show_icons=true&theme=react&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saad-khaan&layout=compact&theme=react&hide_border=true)
-
----
-
 ## 🤝 Let's Connect!
 
 I’m always open to new ideas, collaboration, and internship opportunities — especially in **software development, testing, and full-stack engineering**.
