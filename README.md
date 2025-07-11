@@ -10,7 +10,7 @@ I'm a **Software Engineering student @ UVic** who loves solving real-world probl
 📍 Victoria, BC, Canada  
 🎓 BSEng Student @ University of Victoria  
 💡 Interests: Software Engineering · Full-Stack Development · Clean Code · Testing · System Design  
-🛠️ Currently building: [BuildWise – Construction Helper App](#)  
+🛠️ Currently building: [BuildWise – Construction Helper App](https://github.com/saad-khaan/buildwise)  
 📫 Reach me: saadkhan@uvic.ca · [🌐 Portfolio](https://saadkhaan.netlify.app) · [💼 LinkedIn](https://www.linkedin.com/in/saad-khaann/)
 
 ---
@@ -28,6 +28,8 @@ A smart and sleek web app that delivers curated learning content using Wikipedia
 ### 🏗️ BuildWise – Construction Helper App
 A zoning and permitting assistant for community-led housing projects, built as part of a full-stack software engineering course project.
 > `React` · `Firebase` · `OpenLayers` · `Figma`
+
+[🔗 Live Demo](https://zoningwise.netlify.app) • [📦 Source Code](https://github.com/saad-khaan/buildwise)
 
 ---
 
