@@ -90,6 +90,12 @@ Selenium, Postman, Firebase
 
 ---
 
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saad-khaan&layout=compact&theme=radical)
+
+---
+
 ## 🤝 Let's Connect!  
 
 I’m always open to new ideas, collaboration, and internship opportunities — especially in **software development, testing, and full-stack engineering**.
