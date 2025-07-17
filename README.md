@@ -82,15 +82,15 @@ React, Jest, Angular Vite, Express, TailwindCSS, Node.js
 **DevOps & Cloud:**  
 GitHub Actions (CI/CD), Docker, Render, Netlify, Linux
 
-**Databses & APIs:**
+**Databases & APIs:**   
 SQLite, PostgreSQL, MongoDB, REST APIs, OpenAI API, MySQL
 
-**Other Skils:**
+**Other Skills:**  
 Selenium, Postman, Firebase
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect!  
 
 I’m always open to new ideas, collaboration, and internship opportunities — especially in **software development, testing, and full-stack engineering**.
 
