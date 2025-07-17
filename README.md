@@ -32,7 +32,7 @@ A full‑stack application to monitor network endpoints with automated diagnosti
 ---
 
 ### 🏗️ [BuildWise – Construction Helper App](https://github.com/saad-khaan/buildwise)
-A zoning and permitting assistant for community-led housing projects, consuming map APIs and hosted on cloud infrastructure. 
+A zoning and permitting assistant for community-led housing projects, consuming map APIs and hosted on cloud infrastructure.  
 **Features:**
 - **Interactive mapping:** Integrates OpenLayers API to display zoning boundaries, parcels, and geographic overlays.
 - **Permit guidance:** Helps users identify required permits based on selected zones.
@@ -45,7 +45,7 @@ A zoning and permitting assistant for community-led housing projects, consuming 
 ---
 
 ### ⚙️ CI/CD Pipeline Web Platform
-A multi-tabbed dashboard app with login, tab sessions, and integrated GitHub Actions workflows to simulate a full-stack developer environment.
+A multi-tabbed dashboard app with login, tab sessions, and integrated GitHub Actions workflows to simulate a full-stack developer environment. 
 **Features:**
 - **Automated testing & deployments:** Integrated GitHub Actions pipelines for running tests and deploying updates.  
 - **Containerized services:** Uses Docker to containerize frontend and backend components for consistent environments.
@@ -56,7 +56,7 @@ A multi-tabbed dashboard app with login, tab sessions, and integrated GitHub Act
 ---
 
 ### 🧠 [AI Study Assistant](https://github.com/saad-khaan/study-assistant)
-A smart and sleek web app that delivers curated learning content using Wikipedia + OpenAI, with Firebase login, flashcards, and topic history.
+A smart and sleek web app that delivers curated learning content using Wikipedia + OpenAI, with Firebase login, flashcards, and topic history. 
 **Features:**
 - **Powerful API integrations:** Combines Wikipedia API and OpenAI API to generate advanced summaries and explanations for thousands of topics.  
 - **Personalized learning:** Firebase authentication with per‑user history, saved topics, and dynamic flashcards to reinforce learning.  
